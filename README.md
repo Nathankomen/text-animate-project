@@ -1,1 +1,1 @@
-# text-animate-project
+# text-animated-project
